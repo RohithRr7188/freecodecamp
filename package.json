@@ -1,6 +1,6 @@
 {
-	"author": "Rohith Kumar",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Rohith kumar",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
